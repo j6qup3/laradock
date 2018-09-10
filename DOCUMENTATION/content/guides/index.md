@@ -638,7 +638,7 @@ APP_URL=http://localhost:8000
 
 You will need to run chromedriver with `headless` and `no-sandbox` flag. In Laravel Dusk 2.x it is
 already set `headless` so you just need to add `no-sandbox` flag. If you on previous version 1.x,
-you will need to update your `DustTestCase#driver` as shown below. 
+you will need to update your `DustTestCase#driver` as shown below.
 
 
 ```
